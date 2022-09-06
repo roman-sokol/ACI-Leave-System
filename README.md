@@ -1,5 +1,6 @@
 # ACI-Leave-System
-This is Staff Management System based only php
+This is Staff Management System based only php.
+The system is also responsive.
 
 # Admin detail
   * email : james@gmail.com
