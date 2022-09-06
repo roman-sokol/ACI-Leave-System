@@ -1,5 +1,6 @@
 # ACI-Leave-System
 This is Staff Management System based only php.
+Staff is needed to apply for leaving through the website, HOB approves only then Admin can do it too.
 The system is also responsive.
 
 # Admin detail
