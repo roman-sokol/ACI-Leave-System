@@ -7,3 +7,6 @@ This is Staff Management System based only php
 # Staff detail
   * email : bridget@gmail.com
   * password : james
+# HOD detail
+  * email : gideon@gmail.com
+  * password : james
